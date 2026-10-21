@@ -1,0 +1,1 @@
+{"name": "cite-real", "description": "Check that every link your agent cites is a real page, not a 404, a login wall or a fake PDF. Parallel, content-based, no dependencies.", "version": "0.1.0", "author": {"name": "Dodai0419"}}
